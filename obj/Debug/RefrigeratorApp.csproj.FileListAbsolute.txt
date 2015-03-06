@@ -1,0 +1,8 @@
+E:\csharp-practice\RefrigeratorApp\bin\Debug\RefrigeratorApp.exe.config
+E:\csharp-practice\RefrigeratorApp\bin\Debug\RefrigeratorApp.exe
+E:\csharp-practice\RefrigeratorApp\bin\Debug\RefrigeratorApp.pdb
+E:\csharp-practice\RefrigeratorApp\obj\Debug\RefrigeratorApp.csprojResolveAssemblyReference.cache
+E:\csharp-practice\RefrigeratorApp\obj\Debug\RefrigeratorApp.Properties.Resources.resources
+E:\csharp-practice\RefrigeratorApp\obj\Debug\RefrigeratorApp.csproj.GenerateResource.Cache
+E:\csharp-practice\RefrigeratorApp\obj\Debug\RefrigeratorApp.exe
+E:\csharp-practice\RefrigeratorApp\obj\Debug\RefrigeratorApp.pdb
